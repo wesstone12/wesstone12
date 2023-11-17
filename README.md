@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @wesstone12
-- 👀 I’m interested in buildinh my coding foundation
-- 🌱 I’m currently learning c++, python, java
-- 💞️ I’m looking to collaborate on anything
+- 😎 Just doing side projects for fun
 - 📫 How to reach me: wesstone@vt.edu
 
 <!---
